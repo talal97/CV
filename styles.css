@@ -1,0 +1,21 @@
+/* styles.css */
+
+h3 {
+    color: #ff0000; /* Set the desired color value */
+  }
+
+  
+h2 {
+    color: #ff007b; /* Set the desired color value */
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+  }
+
+  li {
+    padding: 3px;
+  }
+
+
